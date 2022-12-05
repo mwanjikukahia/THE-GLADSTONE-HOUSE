@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+.navbar-brand span{
+    color: rgb(223, 38, 38);
+}
+.navbar a:hover{
+    background-color: grey;
+    color: brown;
+}
+.container h1{
+    text-align: center;
+}
+.carousel-inner{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.footer{
+    padding-left: 2%;
+    background-color: beige;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.footercol-2:hover{
+    background-color: bisque;
+    color: red;
+}
