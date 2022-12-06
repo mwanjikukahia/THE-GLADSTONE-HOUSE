@@ -29,7 +29,8 @@
 }
 .footer{
     padding-left: 2%;
-    background-color: beige;
+    background-color: aliceblue;
+    color: rgb(66, 67, 68);
     font-weight: 500;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
