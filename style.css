@@ -2,7 +2,12 @@
     padding: 0;
     margin: 0;
 }
+.logo{
+    background: none;
+    background-color: black;
+    color: black;
 
+}
 
 .navbar-brand{
     font-family: 'Times New Roman', Times, serif;
@@ -28,14 +33,16 @@
     font-weight: bold;
 }
 .footer{
-    padding-left: 2%;
+    padding-left: 1%;
     background-color: aliceblue;
     color: rgb(66, 67, 68);
-    font-weight: 500;
+    font-weight: 100;
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: medium;
 }
-.footercol-2:hover{
-    background-color: bisque;
+.footer :hover{
     color: red;
+}
+.button :hover{
+  background-color: green;
 }
